@@ -14,7 +14,7 @@
             align-items: center;
             margin: 0;
             min-height: 100vh;
-            font-size: 50px;
+            font-size: 70px;
         }
     </style>
 </head>
