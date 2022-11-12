@@ -16,6 +16,7 @@
     </style>
 </head>
 <body>
-    <a href="https://www.youtube.com/channel/UCuBXRuMNTan_aULRc_JwcxQ?sub_confirmation=1">Subscribe:</a>
+    <a href="https://www.youtube.com/channel/UCuBXRuMNTan_aULRc_JwcxQ?sub_confirmation=1">Subscribe My English Channel:</a>
+    <a href_"https://www.youtube.com/channel/UCJGTjF49TbF-GuzvXDqAwlQ?sub_confirmation_1">Subscribe My German Channel:</a>
 </body>
 </html>
