@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <!-- saved from url=(0053)file:///C:/Users/user/Desktop/resources/website.html -->
 <html>
 
